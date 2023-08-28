@@ -6,7 +6,7 @@
         "activeTab"
     ],
     "background": {
-        "service_worker": "service-worker.js",
+        "service_worker": "content-script.js",
         "type": "module"
     },
     "content_scripts": [
