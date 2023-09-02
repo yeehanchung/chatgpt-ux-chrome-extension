@@ -5,10 +5,6 @@
     "permissions": [
         "activeTab"
     ],
-    "background": {
-        "service_worker": "content-script.js",
-        "type": "module"
-    },
     "content_scripts": [
         {
             "matches": [
